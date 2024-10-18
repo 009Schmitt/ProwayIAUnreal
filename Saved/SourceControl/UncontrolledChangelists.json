@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/Assets/IA/MyIAController.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/Assets/IA/MyIACharacter.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J8/DVRCPR07N63BE2QTRVB765.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZC/TKE48SNHMZKHAIN237EOFN.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/45/8I6RISEDU3Q96OTA4YPLDX.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VU/TQ2G953U3IGG437BLXVTS2.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/06/VN5HGH4XCWXAUF2QEMKFFD.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PF/MJGLWX14RB7QW6KYTG9HV4.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LM/XU6AFF2BB27BYQNF0NW73Y.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NA/P4EKM0HXABOPJ3GNESEPB3.uasset",
+				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FC/AFJJ01RR6FGP1SPK1J380G.uasset"
+			]
+		}
+	]
+}
