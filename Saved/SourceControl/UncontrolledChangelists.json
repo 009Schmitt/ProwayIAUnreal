@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/victor.schmitt/Documents/ProwayIAUnreal/Content/Assets/IA/MyIACharacter.uasset",
+				"C:/Users/victor.schmitt/Documents/ProwayIAUnreal/Content/Assets/IA/NormalGuard.uasset",
+				"C:/Users/victor.schmitt/Documents/ProwayIAUnreal/Content/Assets/IA/GuardBB.uasset",
+				"C:/Users/victor.schmitt/Documents/ProwayIAUnreal/Content/Assets/IA/Task_GetPlayerPosition.uasset",
+				"C:/Users/victor.schmitt/Documents/ProwayIAUnreal/Content/Assets/IA/MyIAController.uasset",
 				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/victor.schmitt/Documents/Unreal Projects/IAProway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
